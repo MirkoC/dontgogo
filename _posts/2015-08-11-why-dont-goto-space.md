@@ -1,53 +1,48 @@
 ---
 layout: post
 title: Why Don't `goto` Space
-description: "Why does my personal page/blog has a futuristic controversial name."
-tags: [sample post, readability, test, intro]
+description: "Why does my personal page/blog has a futuristic and controversial name."
+tags: [general discussion, goto, first post]
 image:
   feature: goto.png
-  credit:
-  creditlink:
+  credit: xkcd
+  creditlink: https://xkcd.com/292/
 ---
 
-This is actually my first blog and first blog post in it. In this post I'll explain how and why I choose this
-contradictory name for my blog.
+## goto
 
-I still remember my first programming steps in elementary school when in informatics class started learning Basic and Pascal.
-It was pretty elementary
+This is actually my first blog and first blog post. In this post I'll explain how and why I chose this
+strange name for my blog, and how and why I decided to write a blog in the first place.
+
+I still remember my first programming steps in elementary school when, in informatics class, we started learning Basic and Pascal.
+It was pretty basic programming, with a few inputs and outputs, `while` and `for` loops. Then somebody found the `goto` statement.
+The teacher wasn't very happy about it, but all the kids loved it, and all of a sudden everybody forgot about `while` and `for`.
+The teacher said that we shouldn't use `goto` but never explained why. It wasn't until college that I found out why it's not
+a good practice.
+
+
+## New office
+
+So, recently I started working in a new company. The guys here are serious about their work and write their own blogs, so I had
+no other option than to start my own. They would sometimes say (and still do) that I'm a noob and that I should start
+writing about why I'm a noob and how to stop being a noob (they're not jerks as it sounds, just have their way of
+motivating new developers <i class="fa fa-smile-o"></i>).
+
+In fact, I'm not that new in developing. I have experience in software development for almost two years now, but I was never
+that crazy about standard practices in programming. I knew some basic stuff and programmed as best as I knew. But like I
+said, in my new firm the guys are pretty serious about their work and know a lot about developing good self commentary and readable
+code, and now they are forcing me to do the same.
+
+Through my struggles of writing a great and professional code I'll try to
+document everything new I learn and what I feel most of the new (or fairly new) developers don't know or don't understand,
+and publish it here on my blog.
+
+For now, I just have one suggestion (it's a good practice in almost all cases): "Don't `goto`"! So, I hope that you now
+understand why I named my blog the way I did. The domain ".space" is here just cos it sounds cool <i class="fa fa-smile-o"></i>.
 
 
 
 
 
-## Cupidatat 90's lo-fi authentic try-hard
+Stay tunded for my first technical blog post, I hope it will come soon.
 
-In pug Portland incididunt mlkshk put a bird on it vinyl quinoa. Terry Richardson shabby chic +1, scenester Tonx excepteur tempor fugiat voluptate fingerstache aliquip nisi next level. Farm-to-table hashtag Truffaut, Odd Future ex meggings gentrify single-origin coffee try-hard 90's.
-
-* Sartorial hoodie
-* Labore viral forage
-* Tote bag selvage
-* DIY exercitation et id ugh tumblr church-key
-
-Incididunt umami sriracha, ethical fugiat VHS ex assumenda yr irure direct trade. Marfa Truffaut bicycle rights, kitsch placeat Etsy kogi asymmetrical. Beard locavore flexitarian, kitsch photo booth hoodie plaid ethical readymade leggings yr.
-
-Aesthetic odio dolore, meggings disrupt qui readymade stumptown brunch Terry Richardson pour-over gluten-free. Banksy american apparel in selfies, biodiesel flexitarian organic meh wolf quinoa gentrify banjo kogi. Readymade tofu ex, scenester dolor umami fingerstache occaecat fashion axe Carles jean shorts minim. Keffiyeh fashion axe nisi Godard mlkshk dolore. Lomo you probably haven't heard of them eu non, Odd Future Truffaut pug keytar meggings McSweeney's Pinterest cred. Etsy literally aute esse, eu bicycle rights qui meggings fanny pack. Gentrify leggings pug flannel duis.
-
-## Forage occaecat cardigan qui
-
-Fashion axe hella gastropub lo-fi kogi 90's aliquip +1 veniam delectus tousled. Cred sriracha locavore gastropub kale chips, iPhone mollit sartorial. Anim dolore 8-bit, pork belly dolor photo booth aute flannel small batch. Dolor disrupt ennui, tattooed whatever salvia Banksy sartorial roof party selfies raw denim sint meh pour-over. Ennui eu cardigan sint, gentrify iPhone cornhole.
-
-> Whatever velit occaecat quis deserunt gastropub, leggings elit tousled roof party 3 wolf moon kogi pug blue bottle ea. Fashion axe shabby chic Austin quinoa pickled laborum bitters next level, disrupt deep v accusamus non fingerstache.
-
-Tote bag asymmetrical elit sunt. Occaecat authentic Marfa, hella McSweeney's next level irure veniam master cleanse. Sed hoodie letterpress artisan wolf leggings, 3 wolf moon commodo ullamco. Anim occupy ea labore Terry Richardson. Tofu ex master cleanse in whatever pitchfork banh mi, occupy fugiat fanny pack Austin authentic. Magna fugiat 3 wolf moon, labore McSweeney's sustainable vero consectetur. Gluten-free disrupt enim, aesthetic fugiat jean shorts trust fund keffiyeh magna try-hard.
-
-## Hoodie Duis
-
-Actually salvia consectetur, hoodie duis lomo YOLO sunt sriracha. Aute pop-up brunch farm-to-table odio, salvia irure occaecat. Sriracha small batch literally skateboard. Echo Park nihil hoodie, aliquip forage artisan laboris. Trust fund reprehenderit nulla locavore. Stumptown raw denim kitsch, keffiyeh nulla twee dreamcatcher fanny pack ullamco 90's pop-up est culpa farm-to-table. Selfies 8-bit do pug odio.
-
-### Thundercats Ho!
-
-Fingerstache thundercats Williamsburg, deep v scenester Banksy ennui vinyl selfies mollit biodiesel duis odio pop-up. Banksy 3 wolf moon try-hard, sapiente enim stumptown deep v ad letterpress. Squid beard brunch, exercitation raw denim yr sint direct trade. Raw denim narwhal id, flannel DIY McSweeney's seitan. Letterpress artisan bespoke accusamus, meggings laboris consequat Truffaut qui in seitan. Sustainable cornhole Schlitz, twee Cosby sweater banh mi deep v forage letterpress flannel whatever keffiyeh. Sartorial cred irure, semiotics ethical sed blue bottle nihil letterpress.
-
-Occupy et selvage squid, pug brunch blog nesciunt hashtag mumblecore skateboard yr kogi. Ugh small batch swag four loko. Fap post-ironic qui tote bag farm-to-table american apparel scenester keffiyeh vero, swag non pour-over gentrify authentic pitchfork. Schlitz scenester lo-fi voluptate, tote bag irony bicycle rights pariatur vero Vice freegan wayfarers exercitation nisi shoreditch. Chambray tofu vero sed. Street art swag literally leggings, Cosby sweater mixtape PBR lomo Banksy non in pitchfork ennui McSweeney's selfies. Odd Future Banksy non authentic.
-
-Aliquip enim artisan dolor post-ironic. Pug tote bag Marfa, deserunt pour-over Portland wolf eu odio intelligentsia american apparel ugh ea. Sunt viral et, 3 wolf moon gastropub pug id. Id fashion axe est typewriter, mlkshk Portland art party aute brunch. Sint pork belly Cosby sweater, deep v mumblecore kitsch american apparel. Try-hard direct trade tumblr sint skateboard. Adipisicing bitters excepteur biodiesel, pickled gastropub aute veniam.

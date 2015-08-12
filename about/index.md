@@ -20,3 +20,17 @@ My goal is to become an expert developer in web technologies. I’m a communicat
 
 
 You can find out more about me and my work in my <a href="{{ site.url }}/cv/">Resum‌é</a>.
+
+
+
+________________________________________________________________________________________________________________________
+
+
+Here is my linkedin profile for more detail information about my education and experience.
+
+* <i class="fa fa-linkedin"></i>
+* CV <a href="http://marvin.kset.org/~cex/CV-MirkoCerovac.pdf" download="MasterThesis.pdf"><i class="fa fa-cloud-download"></i></a>
+
+
+If you are interested in some of my work, please check out my <a href="https://github.com/MirkoC" target="_blank">GitHub</a>. <a href="https://github.com/MirkoC" target="_blank"><i class="fa fa-github"/></a>
+
