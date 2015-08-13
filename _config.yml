@@ -5,13 +5,13 @@ reading_time:     true
 words_per_minute: 200
 # Your site's domain goes here (eg: //mmistakes.github.io, http://mademistakes.com, etc)
 # When testing locally leave blank or use http://localhost:4000
-url:
+url: http://dontgoto.space/
 
 # Owner/author information
 owner:
   name:           Mirko Cerovac
   avatar:         avatar.jpg
-  bio:            "I'm web developer specialized in Ruby on Rails. I'm passionate about programming."
+  bio:            "I'm web developer specialized in Ruby on Rails."
   email:
   # Social networking links used in footer. Update and remove as you like.
   twitter:

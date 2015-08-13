@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Why Don't `goto` Space
-description: "Why does my personal page/blog has a futuristic and controversial name."
+description: "Why does my personal blog has a futuristic and controversial name."
 tags: [general discussion, goto, first post]
 image:
   feature: goto.png
@@ -11,7 +11,7 @@ image:
 
 ## goto
 
-This is actually my first blog and first blog post. In this post I'll explain how and why I chose this
+This is actually my first blog and first blog post. In this post I want tell a story of how and why I chose this
 strange name for my blog, and how and why I decided to write a blog in the first place.
 
 I still remember my first programming steps in elementary school when, in informatics class, we started learning Basic and Pascal.
@@ -23,15 +23,15 @@ a good practice.
 
 ## New office
 
-So, recently I started working in a new company. The guys here are serious about their work and write their own blogs, so I had
+Recently I started working at a new company. The guys at the company are serious about their work and write their own blogs, so I had
 no other option than to start my own. They would sometimes say (and still do) that I'm a noob and that I should start
 writing about why I'm a noob and how to stop being a noob (they're not jerks as it sounds, just have their way of
 motivating new developers <i class="fa fa-smile-o"></i>).
 
-In fact, I'm not that new in developing. I have experience in software development for almost two years now, but I was never
-that crazy about standard practices in programming. I knew some basic stuff and programmed as best as I knew. But like I
-said, in my new firm the guys are pretty serious about their work and know a lot about developing good self commentary and readable
-code, and now they are forcing me to do the same.
+In fact, I'm not completely green in software development. I've been doing it for almost two years now, but I was never
+that interested in learning and applying best practices in programming. I knew some basic stuff and programmed as best as I knew.
+Since my coworkers are pretty serious about their work and know a lot about programming and building good software,
+now they are encouraging me to do the same.
 
 Through my struggles of writing a great and professional code I'll try to
 document everything new I learn and what I feel most of the new (or fairly new) developers don't know or don't understand,
@@ -44,5 +44,5 @@ understand why I named my blog the way I did. The domain ".space" is here just c
 
 
 
-Stay tunded for my first technical blog post, I hope it will come soon.
+Stay tuned for my first technical blog post, I hope it will come soon.
 

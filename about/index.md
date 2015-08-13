@@ -28,7 +28,7 @@ ________________________________________________________________________________
 
 Here is my linkedin profile for more detail information about my education and experience.
 
-* <i class="fa fa-linkedin"></i>
+* <a href="https://www.linkedin.com/in/mirkocerovac" target="_blank"><i class="fa fa-linkedin"/></a>
 * CV <a href="http://marvin.kset.org/~cex/CV-MirkoCerovac.pdf" download="MasterThesis.pdf"><i class="fa fa-cloud-download"></i></a>
 
 
