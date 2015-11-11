@@ -10,7 +10,11 @@ image:
 ---
 
 
-### What is Rokkuto?
+### Why Rokkuto?
+
+Rokkuto is my first prodiction ready web service. The idea for it came from my colleagues. Feel free to check out their blogs (<a href="http://pltconfusion.com/" target="_blank">PLTConfusion</a>, <a href="http://retroaktive.me/" target="_blank">Retro Aktive</a>).
+
+The idea behind Rokkuto is to create a useful open source project for my github repo. It evolved over time into something that has a great potential. Rokkuto is an authentication service whit potential to grow into an authorization service that can be used for all our projects. If meanwhile serves well in the open source community than better.  
 
 
 
@@ -27,12 +31,7 @@ Besides sharing objects, current Rokkuto version isn't capable for doing much mo
 
 ### How is build?
 
-
-<a href="https://github.com/MirkoC" target="_blank">GitHub repo</a>
-
-<a href="" target="_blank">Application</a>
-
-API: <a>www.rokkuto.com/api</a>
+<a href="https://github.com/MirkoC" target="_blank"><i class="fa fa-github"></i></a> <a href="http://rokkuto.floatingpoint.io/" target="_blank"><i class="fa fa-bomb"></i></a> API: <a href="http://rokkuto.floatingpoint.io/api" title="http://rokkuto.floatingpoint.io/api" target="_blank"><i class="fa fa-anchor"></i></a>
 
 
 
@@ -78,7 +77,7 @@ If you like Rails magic then roar representers are the thing for you and be shur
 
 ##### Sidekiq
 
-Sidekiq is easy to setup, reliable processing for Ruby.
+Sidekiq is easy to setup, reliable background processing for Ruby.
 I use sidekiq for my mailer jobs. I don't want to wait for all mails to be sent before server is ready to render json. If you haven't already, you must check out sidekiq.
 
 
@@ -86,4 +85,8 @@ I use sidekiq for my mailer jobs. I don't want to wait for all mails to be sent 
 
 For now Rokkuto has fairly limited usage opportunities. Everything shared via Rokkuto has a public link. That is the main disadvantage of Rokkuto, but it's also a feature.
 
-Next logical step would be adding private sharing. That would require some sort of authentication on the client side or Rokkuto.
+Next logical step would be adding private sharing. That would require some sort of authentication on the client side or Rokkuto. Rokkuto could have users and those users could share privately between each other.
+
+Other big potential for Rokkuto is that it can evolve in authorization service for all ours (my company) projects and applications. Same as Google has one login for all their products.
+
+It would significantly facilitate development of ours in house applications and possibly for other users from open source world. 
