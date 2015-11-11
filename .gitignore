@@ -1,7 +1,13 @@
 _site
+.idea*
+.idea/*
+.idea/workspace.xml
+.idea/
 .DS_Store
 *.sublime-project
 *.sublime-workspace
 codekit-config.json
 node_modules
 .sass-cache
+**/.idea/workspace.xml
+**/.idea/tasks.xml
